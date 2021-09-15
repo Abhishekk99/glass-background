@@ -14,6 +14,10 @@ h1 {
     color: palevioletred;
 }
 
+hr{
+    padding: 2px;
+}
+
 
 .main {
     height: 500px;
